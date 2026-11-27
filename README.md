@@ -195,6 +195,7 @@ The research dashboard presents descriptive findings from anonymous interviews w
 The responsive interface adapts to smaller screens and provides mobile-friendly navigation through a hamburger menu.
 
 ---
+
 ## Project Structure
 
     stop-fitnah-hcdt/
@@ -205,17 +206,16 @@ The responsive interface adapts to smaller screens and provides mobile-friendly 
     |-- README.md
     |
     |-- assets/
-        |
         |-- images/
-        |   |-- sebelum_revisi.jpg
-        |   |-- sesudah_revisi.jpg
-        |
-        |-- screenshots/
-            |-- homepage.png
-            |-- education.png
-            |-- quiz.png
-            |-- research.png
-            |-- mobile.png
+            |-- sebelum_revisi.jpg
+            |-- sesudah_revisi.jpg
+            |
+            |-- screenshots/
+                |-- homepage.png
+                |-- education.png
+                |-- quiz.png
+                |-- research.png
+                |-- mobile.png
 
 ### File Responsibilities
 
