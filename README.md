@@ -161,40 +161,40 @@ The revised poster incorporates feedback regarding readability, religious refere
 
 ---
 
+
 ## Website Screenshots
 
 ### 1. Desktop Homepage
 
-![Desktop Homepage](assets/screenshots/homepage.png)
+![Desktop Homepage](assets/images/screenshots/homepage.png)
 
 The main landing page introduces the Stop Fitnah campaign through its educational message, visual identity, and navigation.
 
 ### 2. Educational Section
 
-![Educational Section](assets/screenshots/education.png)
+![Educational Section](assets/images/screenshots/education.png)
 
 This section explains the negative impacts of Fitnah and introduces practical steps for preventing misinformation.
 
 ### 3. Interactive Learning and Quiz
 
-![Interactive Quiz](assets/screenshots/quiz.png)
+![Interactive Quiz](assets/images/screenshots/quiz.png)
 
 Users can practice the principle of Tabayyun through an interactive checklist and a five-question quiz with automatic scoring and answer explanations.
 
 ### 4. Research Dashboard
 
-![Research Dashboard](assets/screenshots/research.png)
+![Research Dashboard](assets/images/screenshots/research.png)
 
 The research dashboard presents descriptive findings from anonymous interviews with nine university students during the initial poster-testing stage.
 
 ### 5. Mobile Interface
 
-<img src="assets/screenshots/mobile.png" width="320" alt="Mobile Interface">
+<img src="assets/images/screenshots/mobile.png" width="320" alt="Mobile Interface">
 
 The responsive interface adapts to smaller screens and provides mobile-friendly navigation through a hamburger menu.
 
 ---
-
 ## Project Structure
 
     stop-fitnah-hcdt/
